@@ -68,12 +68,6 @@ Read the input image in color mode.
 
 ---
 
-##  Program
-
-### Developed By:
-### Name: JANANI S
-### Register No: 212224230103
-
 ## Load the image
 ```
 import cv2
